@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Cloud Native</>,
+    title: <>Content Creation</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <>Gaming</>,
+    title: <>Digital Marketing</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>

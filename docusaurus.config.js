@@ -1,7 +1,7 @@
 module.exports = {
   title: 'inside media',
   tagline: 'ahead of the curve',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://inside-media.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'insidemedia', // Usually your GitHub org/user name.
